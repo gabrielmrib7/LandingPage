@@ -138,6 +138,9 @@ body {
     color: #fcfcfc;
     transition: 2s;
   }
+  :is(.third,.second,.four,.footer) h4{
+    font-size: x-large;
+  }
   .third{
     display:flex;
     flex-direction: column;
